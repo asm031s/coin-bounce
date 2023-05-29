@@ -1,0 +1,3 @@
+//the files which we will not mention in github is mentioned here
+node_module/
+.env
